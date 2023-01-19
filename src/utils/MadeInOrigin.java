@@ -1,5 +1,5 @@
 package utils;
 
-public classMadeInOrigin {
+public class MadeInOrigin {
   //new class
 }
